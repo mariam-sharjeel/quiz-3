@@ -1,0 +1,45 @@
+*{
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.nav{
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    color: bisque;
+
+}
+li:hover{
+    text-decoration: underline;
+    color: rgb(185, 185, 19);
+
+}
+.container{
+
+    text-align: center;
+    font-size: 90px;
+    color: white;
+    background-color: black;
+    padding: 80px;
+    font-style: normal;
+    font-weight: 100;
+}
+
+div.container1{
+    border: 10px solid yellow;
+    float:right;
+    list-style-type: none;
+    color: bisque;
+    padding:20px;
+    margin:20px;
+}
+
+.water{
+    border-bottom:5px solid yellow;
+}
+button button1{
+    padding:10px;
+    margin:10px;
+}
+
